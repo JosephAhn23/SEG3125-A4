@@ -1,0 +1,8 @@
+{
+  "cleanUrls": true,
+  "redirects": [
+    { "source": "/baseline-supply", "destination": "/ecommerce", "permanent": true },
+    { "source": "/a4", "destination": "/ecommerce", "permanent": true },
+    { "source": "/a4/:path*", "destination": "/ecommerce", "permanent": true }
+  ]
+}
